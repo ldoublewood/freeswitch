@@ -30,7 +30,7 @@ sudo apt-get install -y \
     libpcre2-dev libxml2-dev zlib1g-dev libjpeg-dev libtiff-dev libpng-dev \
     libfreetype-dev libopus-dev libogg-dev libvorbis-dev libpq-dev \
     libspeex-dev libspeexdsp-dev libldns-dev libedit-dev liblua5.3-dev \
-    libsndfile1-dev libavformat-dev libswscale-dev libavutil-dev
+    libsndfile1-dev libavformat-dev libswscale-dev libavutil-dev yasm
 ```
 
 > 说明：本机大部分基础包已预装，实际新装的是
